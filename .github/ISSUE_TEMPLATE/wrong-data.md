@@ -1,17 +1,23 @@
 ---
-name: Good Practice Violation Issue
-about: Create a NeTEx Good Practices Violation Issue
-title: 'Agency: '
-labels: Best Practice
+name: Wrong data
+about: Report a data content issue, e.g. wrong stop coordinates, departure times, missing routes etc.
+title: 'Agency Short Name: '
+labels: Wrong data
 assignees: ''
 
 ---
 
-**Type of Violation**
-Describe how the feed does not respect NeTEx good practices.
+**Issue description**
+A clear and concise description of the error.
 
 **Reference**
-Provide a link describing the violated Good Practice.
+[Provide a link to a source which documents the presumably valid data]
+
+**How to reproduce (if applicable)**
+In case the issue can be demonstrated, add a step by step description how to reproduce the issue.
+
+
+
 
 **NeTEx-Feed Publication Date**
 [e.g. 2025-02-07]
